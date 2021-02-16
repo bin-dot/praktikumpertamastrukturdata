@@ -1,0 +1,2 @@
+# praktikumpertamastrukturdata
+praktikum
